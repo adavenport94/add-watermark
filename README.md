@@ -1,4 +1,4 @@
-# Add watermark to image with opencv
+# Add watermark to an image with opencv
 
 Python script to add a transparent watermark to an existing image using opencv
 
