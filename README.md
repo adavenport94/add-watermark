@@ -8,6 +8,8 @@ Usage:
 Options:
     -h --help                      Show this text.
     -d --dir <directory images>    directory to watermark
+Example:
+    python3 add_wm.py --dir images
 ```
 
 <p align="left">
